@@ -6,7 +6,7 @@ This is a weather forecast app built in Django framework. The user can view curr
 
 It gets the weather details using an API from https://home.openweathermap.org/.
 
-By default it displays the current weather conditions of Rapid City
+By default it displays the current weather conditions in Rapid City
 
 
 ![Rapid City](SampleOutput/Screenshot1.png)
