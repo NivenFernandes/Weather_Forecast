@@ -1,6 +1,6 @@
 # Django Weather Forecast
 
-![Rapid City](Sample Output/Screenshot1.png)
+![Rapid City](SampleOutput/Screenshot1.png)
 
 This is a weather forecast app built in Django framework. The user can view current weather conditions of any city.
 
