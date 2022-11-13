@@ -16,7 +16,7 @@ By default it displays the current weather conditions in Rapid City
 
 
 ## Weather in Seattle
-![Seattle](SampleOutput/Screenshot_3.png)
+![Seattle](SampleOutput/Screenshot_2.png)
 
 
 
@@ -24,7 +24,7 @@ By default it displays the current weather conditions in Rapid City
 
 
 ## Weather in Denver
-![Denver](SampleOutput/Screenshot_2.png)
+![Denver](SampleOutput/Screenshot_3.png)
 
 
 
