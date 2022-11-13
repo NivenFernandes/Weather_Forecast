@@ -16,7 +16,7 @@ By default it displays the current weather conditions in Rapid City
 
 
 ## Weather in Seattle
-![Seattle](SampleOutput/Screenshot_2.png)
+![Seattle](SampleOutput/Screenshot2.png)
 
 
 
