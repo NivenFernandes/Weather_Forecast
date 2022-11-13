@@ -27,3 +27,4 @@ By default it displays the current weather conditions in Rapid City
 ![Rapid City](SampleOutput/Screenshot3.png)
 
 
+
