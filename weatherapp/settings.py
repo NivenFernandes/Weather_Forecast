@@ -1,3 +1,3 @@
+#Add the following line to your settings.py
 
-# Create your project and add this to the settings.py
 STATIC_URL = 'static/'
