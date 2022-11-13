@@ -9,12 +9,12 @@ It gets the weather details using an API from https://home.openweathermap.org/.
 By default it displays the current weather conditions of Rapid City
 
 
-Seattle
+##Weather in Seattle
 ![Rapid City](SampleOutput/Screenshot2.png)
 
-Weather in Seattle
 
-Denver
+
+##Weather in Denver
 ![Rapid City](SampleOutput/Screenshot3.png)
 
-Weather in Denver
+
