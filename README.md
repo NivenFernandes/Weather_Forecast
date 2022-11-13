@@ -23,6 +23,7 @@ By default it displays the current weather conditions in Rapid City
 
 
 
+
 ## Weather in Denver
 ![Denver](SampleOutput/Screenshot_3.png)
 
