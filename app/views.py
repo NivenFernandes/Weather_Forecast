@@ -31,7 +31,7 @@ def home(request):
         }
     else:
         city='Rapid City'
-        url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={{__________YOUR API KEY_______}}'
+        url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={{ __________YOUR API KEY_______}}'
         data = requests.get(url).json()
         allData = {
             'city': data['name'],
